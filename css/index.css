@@ -1,0 +1,237 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  background: -webkit-gradient(linear, left top, right top, from(#858585), to(#ffffff));
+  background: linear-gradient(to right, #858585, #ffffff);
+  font-family: calibri;
+}
+
+body .main-container {
+  height: 25vh;
+  width: 35vw;
+  border-radius: 30px;
+  margin: 20vh auto;
+  background: #01528b;
+}
+
+body .main-container .entry {
+  height: -webkit-fill-available;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .main-container .entry .span-text {
+  text-align: center;
+  font: lighter 1.5em calibri;
+  color: white;
+}
+
+body .main-container .entry .data #name {
+  font-family: calibri;
+  font-size: 1.2em;
+  font-weight: lighter;
+  border-style: none;
+  background-color: transparent;
+  border-color: white;
+  color: white;
+  text-align: center;
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+}
+
+body .main-container .entry .data .name-button {
+  font-family: calibri;
+  font-size: 1.2em;
+  font-weight: lighter;
+  border-radius: 5px;
+  border-style: none;
+  background-color: transparent;
+  color: white;
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+}
+
+body .main-container .entry .data .name-button:hover {
+  background-color: white;
+  color: #01528b;
+}
+
+body .centered-title {
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0px auto;
+  background-color: #01528b;
+}
+
+body .centered-title h1 a {
+  font-weight: lighter;
+  text-decoration: none;
+  color: unset;
+}
+
+body .centered-title #amount {
+  font-weight: lighter;
+  font-size: 1.5em;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+body .centered-title .reset {
+  border-radius: 10px;
+  font-size: 1.5em;
+  border-style: none;
+  font-weight: lighter;
+  background-color: transparent;
+  font-family: calibri;
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+}
+
+body .centered-title .reset:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+body .centered-title .reset:active {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+body .centered-title .save {
+  border-radius: 10px;
+  font-size: 1.5em;
+  border-style: none;
+  font-weight: lighter;
+  background-color: transparent;
+  font-family: calibri;
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+}
+
+body .centered-title .save:hover {
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+body .centered-title .save:active {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+body .main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .main #grid-container {
+  width: 70vw;
+  height: 100%;
+  float: left;
+  padding-left: 15px;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 33% 33% 33%;
+      grid-template-columns: 33% 33% 33%;
+}
+
+body .main #grid-container .grid-item:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-transition: -webkit-transform 0.2s;
+  transition: -webkit-transform 0.2s;
+  transition: transform 0.2s;
+  transition: transform 0.2s, -webkit-transform 0.2s;
+}
+
+body .main #grid-container .grid-item:active {
+  -webkit-transform: scale(1.01);
+          transform: scale(1.01);
+}
+
+body .main #grid-container .grid-item {
+  padding: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+body .main #grid-container .grid-item .subtitulo {
+  height: 25px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 0.8em;
+}
+
+body .main #grid-container .grid-item b {
+  font-size: 0.6em;
+}
+
+body .main #grid-container .grid-item p {
+  font-weight: lighter;
+  font-size: 0.83em;
+}
+
+body .main #grid-container .grid-item-selected {
+  background: #858585;
+}
+
+body .main .image-container {
+  width: 30vw;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-line-pack: distribute;
+      align-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+body .main .image-container img {
+  width: 100%;
+}

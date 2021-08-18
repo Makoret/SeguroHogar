@@ -1,0 +1,74 @@
+[
+    {
+        "Titulo" : "Incendio Edificio",
+        "Costo" : "3000000",
+        "Descripcion" : "Cubrimos los daños materiales que pueda sufrir el edificio por la acción directa o indirecta del fuego, rayo o explosión. Además, están cubiertos los daños que la vivienda sufra por fenómenos meteorológicos como huracán, vendaval, ciclón y tornado.",
+        "Clausula" : " "
+    },
+    {
+        "Titulo" : "Incendio Contenido",
+        "Costo" : "800000",
+        "Descripcion" : "Se cubren los daños materiales que pueda sufrir el contenido del edificio por la acción directa o indirecta del fuego, rayo o explosión. Aquí contemplamos muebles, electrodomésticos, equipos de audio y video, ropa, etc. ",
+        "Clausula" : " "
+    },
+    {
+        "Titulo" : "Responsabilidad Civil",
+        "Costo" : "800000",
+        "Descripcion" : "Cubrimos ante cualquier hecho de Responsabilidad Civil que ocurra en la vivienda, desde un accidente que tenga un invitado, un daño que genere la mascota, hasta los daños que sufra el edificio de un vecino lindante, producto de un incendio en la vivienda del asegurado.",
+        "Clausula" : " "
+    },
+    {
+        "Titulo" : "Cristales, vidrios y espejos",
+        "Costo" : "25000",
+        "Descripcion" : "Cubrimos rotura o rajadura de cristales, vidrios y espejos, incluidos los gastos de su colocación, hasta la suma asegurada indicada. Solo se excluyen cristales que estén colocados de manera horizontal, como, por ejemplo, mesas de vidrio.",
+        "Clausula" : " "
+    },
+    {
+        "Titulo" : "Todo Riesgo Vía Pública",
+        "Costo" : "48000",
+        "Descripcion" : "Cubrimos las pérdidas o daños a los bienes asegurados, producto de la acción directa o indirecta de incendio, rayo o explosión, robo o su tentativa, tanto dentro del país, como en sus países limítrofes.",
+        "Clausula" : "Se cubren solo los siguientes objetos: Equipos de audio, TV, video. PC, Notebooks, netbooks y tablets. Cámaras fotográficas. Consolas de videojuegos. Instrumentos musicales. Bicicletas. Monopatines eléctricos."
+    },
+    {
+        "Titulo" : "Robo",
+        "Costo" : "130000",
+        "Descripcion" : "¡Esperemos que nunca pase! Pero en el caso de que suceda, reponemos los bienes robados hasta la suma asegurada indicada en la cobertura. Recordá leer las medidas mínimas de seguridad, para evitar inconvenientes al momento de un siniestro. ",
+        "Clausula" : "Incluye adicional de reposición a nuevo para bienes cuya antigüedad no supere los 3 años. "
+    },
+    {
+        "Titulo" : "Seguro Técnico Línea Blanca",
+        "Costo" : "90000",
+        "Descripcion" : "Ahora podés incorporar Aires Acondicionados, Heladeras, Freezer, Lavarropas, Secarropas, Lavavajilla, termo tanques y Hornos en el seguro de hogar. Cubre robo, incendio, rayo y/o explosión, como así también, altas y bajas de tensión que puedan afectar a los electrodomésticos.También incluimos el adicional de reposición a nuevo, de los productos asegurados, siempre que la antigüedad sea inferior a 3 años.",
+        "Clausula" : " "
+    },
+    {
+        "Titulo" : "Mascotas",
+        "Costo" : "10000",
+        "Descripcion" : "Se cubre el robo, muerte o sacrificio del animal, como consecuencia de un accidente. También se incluyen gastos de Asistencia Veterinaria, a consecuencia de lesiones corporales sufridas por el Animal Doméstico en un Accidente. Se excluye el hurto y/o extravío del mismo, pero si cubre los gastos de recuperación del animal en el caso de extravío.",
+        "Clausula" : " "
+    },
+    {
+        "Titulo" : "Seguro Técnico de Equip. Electrónicos",
+        "Costo" : "90000",
+        "Descripcion" : "Aseguramos los equipos electrónicos por robo, incendio, daños parciales y altas o bajas de tensión. Aquí cubrimos objetos como notebooks, tv, equipos de audio, etc. También incluimos el adicional de reposición a nuevo, de los productos asegurados, siempre que la antigüedad sea inferior a 3 años.",
+        "Clausula" : " "
+    },
+    {
+        "Titulo" : "Todo riesgo domicilio",
+        "Costo" : "80000",
+        "Descripcion" : "Se cubren las pérdidas y/o daños a los bienes del asegurado producidos por la acción directa o indirecta de incendio, rayo o explosión, accidente, robo o su tentativa, mientras se encuentren dentro de la vivienda. También incluimos el adicional de reposición a nuevo, de los productos asegurados, siempre que la antigüedad sea inferior a 3 años.",
+        "Clausula" : "Se cubren solo los siguientes objetos: Equipos de audio, TV, video. PC, Notebooks, netbooks y tablets. Cámaras fotográficas. Consolas de videojuegos. Instrumentos musicales. Bicicletas. Monopatines eléctricos."
+    },
+    {
+        "Titulo" : "Daños por acción del agua",
+        "Costo" : "4800",
+        "Descripcion" : "Se cubre la pérdida de o los daños al mobiliario, por la acción directa del agua, únicamente cuando sean causados por filtración, derrame, desborde o escape como consecuencia de rotura, obstrucción, falta o deficiencia en la provisión de energía o falla de la instalación destinada a contenerla o distribuirla, incluyendo tanques, cañerías, válvulas, bombas y cualquier accesorio de la instalación.",
+        "Clausula" : " "
+    },
+    {
+        "Titulo" : "Pérdida de alimentos refrigerados",
+        "Costo" : "14400",
+        "Descripcion" : "Se cubre la pérdida de alimentos en heladeras, freezers, etc; a causa de la falta de frío, originada ante la falla de suministro de energía por parte de la entidad suministradora del servicio, a raíz de un hecho súbito y accidental y que se dé por un período mayor a 12 (doce) horas continuas o discontinuas dentro de un período de 24 horas. ",
+        "Clausula" : " "
+    }
+]
